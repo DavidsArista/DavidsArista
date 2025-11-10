@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm David 👋
 
-<!--
-**DavidsArista/DavidsArista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science @ UC Davis** | AI/ML + Software Engineering  
+Building at the intersection of **sports + technology**.
 
-Here are some ideas to get you started:
+### What I’m Working On
+- **NFL Play Predictor** (pass vs run classification using game state features)
+- **Energy & Weather Consumption Predictor** (Random Forest, R² = 0.97)
+- **RAG Chatbot for City of Sacramento** using Google ADK + GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+**Languages:** Python, C++, Java, MATLAB  
+**Tools:** scikit-learn, pandas, Flask, Git, Google Cloud, Vertex AI  
+**Interests:** Sports analytics, reinforcement learning, human-centered AI
+
+### Coffee?
+Message me on LinkedIn: https://www.linkedin.com/in/davidarista/
