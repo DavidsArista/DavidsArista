@@ -14,4 +14,5 @@ Building at the intersection of **sports + technology**.
 **Interests:** Sports analytics, reinforcement learning, human-centered AI
 
 ### Coffee?
-Message me on LinkedIn: https://www.linkedin.com/in/davidarista/
+Message me on LinkedIn: https:linkedin.com/in/david-arista-1a13702a9
+
