@@ -4,7 +4,6 @@
 Building at the intersection of **sports + technology**.
 
 ### What I’m Working On
-- **NFL Play Predictor** (pass vs run classification using game state features)
 - **Energy & Weather Consumption Predictor** (Random Forest, R² = 0.97)
 - **RAG Chatbot for City of Sacramento** using Google ADK + GCP
 
