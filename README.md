@@ -16,7 +16,7 @@ CS senior at UC Davis. Currently building production LLM systems as an AI/ML eng
 - [SuitandAI](https://github.com/DavidsArista/suitandai): resume tailoring using a hybrid matcher score plus an LLM qualitative fit layer. Python, FastAPI, React, Claude API.
 - [Mini Container Runtime](https://github.com/DavidsArista/mini_container_runtime): containers from scratch in Rust using Linux namespaces and cgroups.
 - [NFL Player Valuation Model](https://github.com/DavidsArista/nfl-fourth-down-optimizer): XGBoost over 246K+ plays. ROC-AUC 0.9116.
-- [Energy & Weather Consumption Predictor](https://github.com/DavidsArista/Energy-Heatwave-Predictor): AI4ALL Fellowship project. Random Forest, R² = 0.97.
+- [Energy & Weather Consumption Predictor](https://github.com/DavidsArista/Energy-Heatwave-Predictor): AI4ALL Ignite Fellowship project, selected to present at the 2024 Student Symposium. Random Forest, R² = 0.97.
 
 ## Stack
 
